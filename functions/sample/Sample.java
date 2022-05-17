@@ -15,6 +15,7 @@ public class Sample implements CatalystAdvancedIOHandler {
 			LOGGER.log(Level.INFO, "Hel!!!!!!okl!!!!!!o Arun Gokul");
 			LOGGER.log(Level.INFO, "Todsdkljvnkjwndvkange");
 			LOGGER.log(Level.INFO, "NEWNEWNENWENNWENNWNENWNENENWWENNWE");
+						LOGGER.log(Level.INFO, "dsfsdf dslfknwkd fwej fjkwekf kwekfkjwekf wekjf");
 			response.setStatus(200);
 		}
 		catch(Exception e) {
