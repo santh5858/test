@@ -12,8 +12,8 @@ public class Sample implements CatalystAdvancedIOHandler {
 	@Override
     public void runner(HttpServletRequest request, HttpServletResponse response) throws Exception {
 		try {
-			LOGGER.log(Level.INFO, "Hell!!!!!!o Arun Gokul");
-			LOGGER.log(Level.INFO, "Today's Change");
+			LOGGER.log(Level.INFO, "Hel!!!!!!okl!!!!!!o Arun Gokul");
+			LOGGER.log(Level.INFO, "Todsdkljvnkjwndvkange");
 			response.setStatus(200);
 		}
 		catch(Exception e) {
